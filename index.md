@@ -2,7 +2,7 @@
 
 #### Financial Data
 
-* [US Indices]()
+* [US Indices](https://onedatahub.github.io/US-Index/)
 * [ETF]()
 * [FX Majors]()
 * [Most Liquid US Stocks]()
